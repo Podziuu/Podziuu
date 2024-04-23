@@ -8,7 +8,7 @@ As an aspiring web developer at Lodz University of Technology, I am on a dynamic
 
 * 🌍  I'm based in Lodz
 * ✉️  You can contact me at [bartekpodemski@gmail.com](mailto:bartekpodemski@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on websites, webapps, seo
 * ⚡  I'm really passionate athlete
 
