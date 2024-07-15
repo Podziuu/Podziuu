@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bartosz Podemski
 ========================================================================================================================================
 
-Fullstack developer
+Fullstack web3 developer
 -------------------
 
 As an aspiring web developer at Lodz University of Technology, I am on a dynamic journey of exploration and creation within the ever-evolving realm of technology. My passion lies in crafting digital solutions that seamlessly blend innovation with user-centric design. I thrive on challenges and see each coding project as an opportunity to not only solve problems but to transform ideas into interactive and impactful experiences. My dedication to learning and staying at the forefront of web development technologies propels me forward, and I find joy in the continuous pursuit of knowledge.
